@@ -1,6 +1,6 @@
-# busplanner
+# busarrival-app
 
-Bus Planner
+Bus Arrival for Singapore
 
 ## Getting Started
 
